@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: https://github.com/setkumarhere
+#Author: github.com/setkumarhere
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
 
 checkroot() {
